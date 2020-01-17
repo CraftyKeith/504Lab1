@@ -1,0 +1,10 @@
+body {
+  padding: 5;
+  margin: 10;
+  background-color: black;
+}
+
+html, body, #map {
+height: 95%;
+width: 95vw;
+}
